@@ -1,0 +1,4 @@
+main {display: flex; flex-direction: column; justify-content: center; margin: 0 auto; padding: 20px 0; max-width: 500px;}
+.form {display: flex; flex-direction: column; width: 100%; min-width: 300px; justify-content: center; margin-bottom: 20px;}
+.button.add-post {max-width: 100px; }
+.posts {color: #000;}
